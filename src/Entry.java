@@ -4,6 +4,7 @@ public class Entry<T extends Comparable<?>> {
     Entry<T> left;
     Entry<T> right;
 
+    // test2
     public Entry(int value) {
         this.value = value;
     }
