@@ -1,4 +1,6 @@
 public class Main {
+
+    // TEST changes
     public static void main(String[] args) {
         Entry<Integer> root1 = new Entry<>(7);
         root1.left = new Entry<>(4);
